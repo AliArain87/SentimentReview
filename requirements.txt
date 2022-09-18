@@ -9,7 +9,7 @@ streamlit_option_menu
 regex
 nltk
 pickle-mixin
-PIL
+pillow
 st-annotated-text
 streamlit_option_menu
 sklearn-features
