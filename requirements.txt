@@ -9,3 +9,7 @@ streamlit_option_menu
 re
 nltk
 pickle
+PIL
+st-annotated-text
+streamlit_option_menu
+sklearn-features
