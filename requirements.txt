@@ -8,7 +8,7 @@ scikit-learn
 streamlit_option_menu
 regex
 nltk
-pickle
+pickle-mixin
 PIL
 st-annotated-text
 streamlit_option_menu
