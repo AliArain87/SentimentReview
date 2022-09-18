@@ -6,7 +6,7 @@ matplotlib
 plotly
 scikit-learn
 streamlit_option_menu
-re
+regex
 nltk
 pickle
 PIL
